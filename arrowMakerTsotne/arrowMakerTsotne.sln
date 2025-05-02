@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrowMakerTsotne", "arrowMakerTsotne\arrowMakerTsotne.csproj", "{227CB3FF-E81B-46D8-8025-110A61D78A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227CB3FF-E81B-46D8-8025-110A61D78A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227CB3FF-E81B-46D8-8025-110A61D78A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227CB3FF-E81B-46D8-8025-110A61D78A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227CB3FF-E81B-46D8-8025-110A61D78A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5554D350-0D49-416E-A9A9-0D32BF547E92}
+	EndGlobalSection
+EndGlobal
